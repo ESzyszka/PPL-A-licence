@@ -22,7 +22,10 @@ Pogoda:
 - ATIS - mozna odsluchac na czestotliwosci w czasie rzeczywistym
 - TAS (true air speef)
 - windshear - uskok wiatru - very dangerous: https://aviationsafetymagazine.com/airmanship/surviving-windshear/ --> start with max power, longest runway, delay flight
-- paliwo jest rzadsze od wody , drobinki wody na dnie sie zbieraja 
+- paliwo jest rzadsze od wody , drobinki wody na dnie sie zbieraja
+- GAMET
+[Aviation SIGMET Map — Poland](https://aviation-api.imgw.pl/image/significant/pl)
+
 
 Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 - meteo office czech aviation
