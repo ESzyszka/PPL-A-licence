@@ -35,6 +35,8 @@ Dokumenty, ktore drukujemy:
 METAR:
 - wartosc standardowej atmosfery
 - cisnienie od tej samej izobary
+- mgla vs zamglenie
+-** chmury istotne operacyjne - cloud of operational significance**: cloud with the height of cloud base below 1500m or below the highest minimum sector altitude, whichever is greater or a cumulonimbus cloud or a towering cumulus cloud at any height 
 
 
 
