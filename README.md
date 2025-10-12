@@ -82,4 +82,7 @@ Dokumenty wymagane na pokladzie samolotu:
 - Arkusz wywazenia
 
 
+CTR jest na czerwono na mapach
+
+
 Instruktor symulatorowy MCCI(A) IRI(A)
