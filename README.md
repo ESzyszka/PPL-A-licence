@@ -30,6 +30,7 @@ Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 Dokumenty, ktore drukujemy:
 - Operacyjny plan lotu 
 - Weather briefing
+- Aircraft manual: https://www.aeroklubkrakowski.pl/wp-content/uploads/2019/10/Tecnam-P2008-JC-Aircraft-Flight-Manual.pdf
 
 
 OPERATIONAL PROCEDURES:
