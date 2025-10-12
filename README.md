@@ -2,6 +2,7 @@ This is a guide to PPL(A) license and resources for EASA Airspace - it will be t
 
 Najlepsze miejsca na szybowce 
 - Lisie Katy: https://lisie.pl/
+ - cumulusy najpiekniejsze, Wisla zatrzymuje je i z drugiej strony w Grudziadzu sa dobre warunki pogodowe CAVOK
 - Leszno: https://aeroklub.leszno.pl/
 
 Materialy do nauki:
