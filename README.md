@@ -20,7 +20,7 @@ Pogoda:
 - METAR - co polgodziny: https://awiacja.imgw.pl/opis-produktow
 - ATIS - mozna odsluchac na czestotliwosci w czasie rzeczywistym
 - TAS (true air speef)
-- windshear - uskok wiatru - very dangerous
+- windshear - uskok wiatru - very dangerous: https://aviationsafetymagazine.com/airmanship/surviving-windshear/ --> start with max power, longest runway, delay flight
 - paliwo jest rzadsze od wody , drobinki wody na dnie sie zbieraja 
 
 Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
