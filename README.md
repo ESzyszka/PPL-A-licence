@@ -86,6 +86,11 @@ Warto miec:
 - obliczenia czasu wschodu i zachodu
 
 
+RADIOFONIA:
+- LiveATC
+- https://edziennik.ulc.gov.pl/DU_ULC/2017/473/Zalacznik1.pdf
+
+
 CTR jest na czerwono na mapach
 airospace use plan 
 wektorowanie radarowe 
