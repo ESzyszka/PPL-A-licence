@@ -38,7 +38,9 @@ PERFORMANCE:
 - maximum cross wind component  = maksymalna skladowa boczna
  ![Crosswind Component Chart](https://mycfibook.com/wp-content/uploads/media/Crosswind-Component-Chart.svg)
 
-
+MINIMUM VFR flight requirement:
+- 5km visibility
+- R11/1800N
 
 
 Instruktor symulatorowy MCCI(A) IRI(A)
