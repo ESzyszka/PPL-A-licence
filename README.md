@@ -83,6 +83,8 @@ Dokumenty wymagane na pokladzie samolotu:
 
 
 CTR jest na czerwono na mapach
+airospace use plan 
+wektorowanie radarowe 
 
 
 Instruktor symulatorowy MCCI(A) IRI(A)
