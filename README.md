@@ -1,4 +1,3 @@
-This is a guide to PPL(A) license and resources for EASA Airspace - it will be translated to English on October 13th 2025
 
 
 Aicraft flight manual
