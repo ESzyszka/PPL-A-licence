@@ -89,7 +89,7 @@ Warto miec:
 RADIOFONIA:
 - LiveATC
 - https://edziennik.ulc.gov.pl/DU_ULC/2017/473/Zalacznik1.pdf
-
+- Co zrobic przy utracie lacznosci: https://dlapilota.pl/wiadomosci/swiat/od-1-maja-zmiany-procedur-utraty-lacznosci-podreczna-sciagawka
 
 CTR jest na czerwono na mapach
 airospace use plan 
