@@ -15,14 +15,18 @@ METEREOLOGIA:
 Pogoda:
 - ICAO Annex 3: https://applications.icao.int/postalhistory/annex_3_meteorological_service_for_international_air_navigation.htm
 - https://awiacja.imgw.pl/
-- METAR - co polgodziny
+- METAR - co polgodziny: https://awiacja.imgw.pl/opis-produktow
 - ATIS - mozna odsluchac na czestotliwosci w czasie rzeczywistym
 
-Kiedy szykasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
+Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 - meteo office czech aviation
 - AIP vfr Chech republic
 - METAR-TAF Chech Republic
 - [https://www.ans.cz/ ](https://aim.rlp.cz/vfrmanual/actual/gen_1_cz.html)
+
+Dokumenty, ktore drukujemy:
+- Operacyjny plan lotu 
+- Weather briefing 
 
 
 
