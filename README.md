@@ -34,12 +34,13 @@ Dokumenty, ktore drukujemy:
 
 METAR:
 - wartosc standardowej atmosfery
-- cisnienie od tej samej izobary 
+- cisnienie od tej samej izobary
 
 
 
 PERFORMANCE:
 - Wymagane przewyzszenie,
+- Wiatr: ster kierunku (lewy pedal wychylamy pod wiatr ) i lotka (pod wiatr)
 - maximum cross wind component  = maksymalna skladowa boczna
  ![Crosswind Component Chart](https://mycfibook.com/wp-content/uploads/media/Crosswind-Component-Chart.svg)
 
