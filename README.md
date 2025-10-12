@@ -100,6 +100,7 @@ FORDEC: - decision making framework
 - Check
 
 
+What to do when you are lost:
 1. kontact ATC
 2. GPS telefon
 3. 180 turn aroud and go to point
