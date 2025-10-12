@@ -1,5 +1,9 @@
 This is a guide to PPL(A) license and resources for EASA Airspace - it will be translated to English on October 13th 2025
 
+
+Aicraft flight manual
+SOP - najwazniejszy dokument 
+
 Najlepsze miejsca na szybowce 
 - Lisie Katy: https://lisie.pl/
  - cumulusy najpiekniejsze, Wisla zatrzymuje je i z drugiej strony w Grudziadzu sa dobre warunki pogodowe CAVOK
