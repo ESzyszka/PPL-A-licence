@@ -33,8 +33,11 @@ Dokumenty, ktore drukujemy:
 - Aircraft manual: https://www.aeroklubkrakowski.pl/wp-content/uploads/2019/10/Tecnam-P2008-JC-Aircraft-Flight-Manual.pdf
 
 
-OPERATIONAL PROCEDURES:
-- Wymagane przewyzszenie, maksymalna skladowa boczna 
+PERFORMANCE:
+- Wymagane przewyzszenie,
+- maximum cross wind component  = maksymalna skladowa boczna
+ ![Crosswind Component Chart](https://mycfibook.com/wp-content/uploads/media/Crosswind-Component-Chart.svg)
+
 
 
 
