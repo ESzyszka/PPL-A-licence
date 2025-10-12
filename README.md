@@ -24,7 +24,8 @@ Pogoda:
 - windshear - uskok wiatru - very dangerous: https://aviationsafetymagazine.com/airmanship/surviving-windshear/ --> start with max power, longest runway, delay flight
 - paliwo jest rzadsze od wody , drobinki wody na dnie sie zbieraja
 - GAMET
-[Aviation SIGMET Map — Poland](https://aviation-api.imgw.pl/image/significant/pl)
+![Aviation SIGMET Map — Poland](https://aviation-api.imgw.pl/image/significant/pl)
+
 
 
 Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
