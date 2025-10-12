@@ -22,7 +22,7 @@ Kiedy szykasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 - meteo office czech aviation
 - AIP vfr Chech republic
 - METAR-TAF Chech Republic
-- https://www.ans.cz/ 
+- [https://www.ans.cz/ ](https://aim.rlp.cz/vfrmanual/actual/gen_1_cz.html)
 
 
 
