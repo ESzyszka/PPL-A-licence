@@ -81,6 +81,10 @@ Dokumenty wymagane na pokladzie samolotu:
 - Swiadectwo rejestracji
 - Arkusz wywazenia
 
+Warto miec:
+- tabele przeliczeniowe jednostek
+- obliczenia czasu wschodu i zachodu
+
 
 CTR jest na czerwono na mapach
 airospace use plan 
