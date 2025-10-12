@@ -91,6 +91,20 @@ RADIOFONIA:
 - https://edziennik.ulc.gov.pl/DU_ULC/2017/473/Zalacznik1.pdf
 - Co zrobic przy utracie lacznosci: https://dlapilota.pl/wiadomosci/swiat/od-1-maja-zmiany-procedur-utraty-lacznosci-podreczna-sciagawka
 
+FORDEC: - decision making framework 
+- Findings
+- Options
+- Risks
+- Decission
+- Execution
+- Check
+
+
+1. kontact ATC
+2. GPS telefon
+3. 180 turn aroud and go to point
+4. PAN PAN - zgubilam sie 
+
 CTR jest na czerwono na mapach
 airospace use plan 
 wektorowanie radarowe 
