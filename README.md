@@ -1,0 +1,21 @@
+Najlepsze miejsca na szybowce 
+- Lisie Katy: https://lisie.pl/
+- Leszno: https://aeroklub.leszno.pl/
+
+Materialy do nauki:
+- https://ulc.gov.pl/_download/personel_lotniczy/lke/ppla.pdf
+- https://nakolannik.pl/samoloty/
+- podrecznik pilota samolotowego: https://fliphtml5.com/wlxzg/dvue/basic
+- https://lke.boruh.com.pl/
+- https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak
+- https://sklep.plar.pl/meteorology-for-airplane-pilot-p-282.html
+
+METEREOLOGIA:
+
+Pogoda:
+- ICAO Annex 3: https://applications.icao.int/postalhistory/annex_3_meteorological_service_for_international_air_navigation.htm
+- https://awiacja.imgw.pl/
+
+
+
+Instruktor symulatorowy MCCI(A) IRI(A)
