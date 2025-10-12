@@ -58,7 +58,28 @@ MINIMUM VFR flight requirement:
 
 
 PRAWO LOTNICZE:
-- 
+- https://www.easa.europa.eu/en
+- https://www.easa.europa.eu/en/document-library/easy-access-rules/easy-access-rules-standardised-european-rules-air-sera
+- Operacyjny plan lotu: https://www.aro.pansa.pl/wp-content/uploads/2022/05/FPL_v1.pdf
+
+Dokumenty pilota:
+- Licencja
+- Zaswiadczenie medyczne
+- Swiadectwo radiooperatora w sluzbie lotniczej
+- Dokument ze zdjeciem dla potwierdzenia tozsamosci
+- Aktualne mapy
+- Karty lonisk
+
+Dokumenty wymagane na pokladzie samolotu:
+- Certyfikat zdatnosci do lotu samolotu
+- Instrukcja uzytkowania w locie lub rownowazny dokument
+- Dziennik podrozy
+- Dokument zawierajacy opis procedur i sygnalow wzrokowych
+- Ubezpieczenie
+- Swiadectwo halasowe
+- Pozwolenie radiowe
+- Swiadectwo rejestracji
+- Arkusz wywazenia
 
 
 Instruktor symulatorowy MCCI(A) IRI(A)
