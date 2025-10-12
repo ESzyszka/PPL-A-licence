@@ -20,6 +20,8 @@ Pogoda:
 - METAR - co polgodziny: https://awiacja.imgw.pl/opis-produktow
 - ATIS - mozna odsluchac na czestotliwosci w czasie rzeczywistym
 - TAS (true air speef)
+- windshear - uskok wiatru - very dangerous
+- paliwo jest rzadsze od wody , drobinki wody na dnie sie zbieraja 
 
 Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 - meteo office czech aviation
@@ -36,7 +38,10 @@ METAR:
 - wartosc standardowej atmosfery
 - cisnienie od tej samej izobary
 - mgla vs zamglenie
--** chmury istotne operacyjne - cloud of operational significance**: cloud with the height of cloud base below 1500m or below the highest minimum sector altitude, whichever is greater or a cumulonimbus cloud or a towering cumulus cloud at any height 
+-** chmury istotne operacyjne - cloud of operational significance**: cloud with the height of cloud base below 1500m or below the highest minimum sector altitude, whichever is greater or a cumulonimbus cloud or a towering cumulus cloud at any height
+ -  minimum sector altitude
+ -  CAVOK w Krakowie 6900
+
 
 
 
