@@ -32,6 +32,11 @@ Dokumenty, ktore drukujemy:
 - Weather briefing
 - Aircraft manual: https://www.aeroklubkrakowski.pl/wp-content/uploads/2019/10/Tecnam-P2008-JC-Aircraft-Flight-Manual.pdf
 
+METAR:
+- wartosc standardowej atmosfery
+- cisnienie od tej samej izobary 
+
+
 
 PERFORMANCE:
 - Wymagane przewyzszenie,
@@ -39,6 +44,7 @@ PERFORMANCE:
  ![Crosswind Component Chart](https://mycfibook.com/wp-content/uploads/media/Crosswind-Component-Chart.svg)
 
 MINIMUM VFR flight requirement:
+- przepisy wykonywania lotu z widocznoscia - ULC 
 - 5km visibility
 - R11/1800N
 
