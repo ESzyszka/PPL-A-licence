@@ -1,3 +1,5 @@
+This is a guide to PPL(A) license and resources for EASA Airspace - it will be translated to English on October 13th 2025
+
 Najlepsze miejsca na szybowce 
 - Lisie Katy: https://lisie.pl/
 - Leszno: https://aeroklub.leszno.pl/
@@ -17,6 +19,7 @@ Pogoda:
 - https://awiacja.imgw.pl/
 - METAR - co polgodziny: https://awiacja.imgw.pl/opis-produktow
 - ATIS - mozna odsluchac na czestotliwosci w czasie rzeczywistym
+- TAS (true air speef)
 
 Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 - meteo office czech aviation
@@ -26,7 +29,11 @@ Kiedy szukasz w innym kraju to sa slowa klucze, ktorych nalezy szukac:
 
 Dokumenty, ktore drukujemy:
 - Operacyjny plan lotu 
-- Weather briefing 
+- Weather briefing
+
+
+OPERATIONAL PROCEDURES:
+- Wymagane przewyzszenie, maksymalna skladowa boczna 
 
 
 
