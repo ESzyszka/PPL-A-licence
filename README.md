@@ -129,5 +129,6 @@ https://pl.wikipedia.org/wiki/Paralaksa
 
 <img width="942" height="361" alt="Screenshot 2025-10-19 at 10 59 57" src="https://github.com/user-attachments/assets/ecf629ed-fc40-440a-86f3-9423fad9d508" />
 
+<img width="947" height="579" alt="Screenshot 2025-10-19 at 11 15 56" src="https://github.com/user-attachments/assets/63b22002-1923-4d46-9a66-17145ca54e00" />
 
 Instruktor symulatorowy MCCI(A) IRI(A)
