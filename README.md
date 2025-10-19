@@ -131,4 +131,20 @@ https://pl.wikipedia.org/wiki/Paralaksa
 
 <img width="947" height="579" alt="Screenshot 2025-10-19 at 11 15 56" src="https://github.com/user-attachments/assets/63b22002-1923-4d46-9a66-17145ca54e00" />
 
+Kiedy podgrzewamy rurke pitota:
+- IFR
+- noc
+- wilgoć -- niska podstawa chmur 
+<img width="903" height="585" alt="Screenshot 2025-10-19 at 11 27 16" src="https://github.com/user-attachments/assets/5911b489-7537-4a7d-bfe6-d01a42fceefa" />
+<img width="920" height="674" alt="Screenshot 2025-10-19 at 11 30 43" src="https://github.com/user-attachments/assets/68df253a-3dba-4b70-b5c5-2c8f86c251c1" />
+<img width="890" height="578" alt="Screenshot 2025-10-19 at 11 33 42" src="https://github.com/user-attachments/assets/47561d46-7747-4377-b75d-e6930ee75924" />
+<img width="829" height="671" alt="Screenshot 2025-10-19 at 11 33 52" src="https://github.com/user-attachments/assets/246704e2-9f5a-4343-ba35-710d429ceb0b" />
+<img width="853" height="647" alt="Screenshot 2025-10-19 at 11 35 01" src="https://github.com/user-attachments/assets/ce899b43-fd77-4a8f-a073-ff290aa09a34" />
+<img width="945" height="643" alt="Screenshot 2025-10-19 at 11 36 03" src="https://github.com/user-attachments/assets/be4fe9a3-b3f6-4eef-b07d-1805c34c90f1" />
+<img width="940" height="694" alt="Screenshot 2025-10-19 at 11 42 32" src="https://github.com/user-attachments/assets/3ac2bfa9-8584-44af-8e45-099aa3b1ac3c" />
+<img width="854" height="696" alt="Screenshot 2025-10-19 at 11 44 36" src="https://github.com/user-attachments/assets/48f55bfa-1e3f-492d-aa75-541e7d539ee6" />
+
+
+
+
 Instruktor symulatorowy MCCI(A) IRI(A)
