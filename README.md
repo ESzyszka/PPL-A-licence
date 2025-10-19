@@ -118,4 +118,9 @@ Analysis od Polish Airspace Accidents
 - https://pkbwl.gov.pl
 
 
+
+
+<img width="308" height="512" alt="Screenshot 2025-10-19 at 10 21 59" src="https://github.com/user-attachments/assets/33e85f76-6d4f-4d08-9909-08d2fcda0593" />
+
+
 Instruktor symulatorowy MCCI(A) IRI(A)
