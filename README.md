@@ -122,5 +122,12 @@ Analysis od Polish Airspace Accidents
 
 <img width="308" height="512" alt="Screenshot 2025-10-19 at 10 21 59" src="https://github.com/user-attachments/assets/33e85f76-6d4f-4d08-9909-08d2fcda0593" />
 
+<img width="839" height="668" alt="Screenshot 2025-10-19 at 10 33 28" src="https://github.com/user-attachments/assets/b87debfd-858c-4edf-89f4-f9d4e70b8a92" />
+
+Paralaksa:
+https://pl.wikipedia.org/wiki/Paralaksa
+
+<img width="942" height="361" alt="Screenshot 2025-10-19 at 10 59 57" src="https://github.com/user-attachments/assets/ecf629ed-fc40-440a-86f3-9423fad9d508" />
+
 
 Instruktor symulatorowy MCCI(A) IRI(A)
