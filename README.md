@@ -143,6 +143,47 @@ Kiedy podgrzewamy rurke pitota:
 <img width="945" height="643" alt="Screenshot 2025-10-19 at 11 36 03" src="https://github.com/user-attachments/assets/be4fe9a3-b3f6-4eef-b07d-1805c34c90f1" />
 <img width="940" height="694" alt="Screenshot 2025-10-19 at 11 42 32" src="https://github.com/user-attachments/assets/3ac2bfa9-8584-44af-8e45-099aa3b1ac3c" />
 <img width="854" height="696" alt="Screenshot 2025-10-19 at 11 44 36" src="https://github.com/user-attachments/assets/48f55bfa-1e3f-492d-aa75-541e7d539ee6" />
+<img width="892" height="634" alt="Screenshot 2025-10-19 at 11 46 04" src="https://github.com/user-attachments/assets/d704b517-f7cb-42d0-9b5d-a3c4e35b5555" />
+
+
+Temperatura ponizej ISA = tabelka korekcyjna i obliczamy jaka poprawke trzeba zastosowc, bo wysokosc jest mniejsza
+elewacja - wysokosc barometryczna 
+
+<img width="710" height="673" alt="Screenshot 2025-10-19 at 11 51 26" src="https://github.com/user-attachments/assets/9af93fd1-2b10-4ef4-87b3-be48772b0691" />
+<img width="896" height="631" alt="Screenshot 2025-10-19 at 12 02 04" src="https://github.com/user-attachments/assets/8402a848-60d0-45ae-9aa3-bbbd484d8cd9" />
+<img width="918" height="614" alt="Screenshot 2025-10-19 at 12 03 10" src="https://github.com/user-attachments/assets/f9b76dc7-73be-4811-a41d-3d20fd56d727" />
+<img width="946" height="574" alt="Screenshot 2025-10-19 at 12 09 21" src="https://github.com/user-attachments/assets/94bb913d-f9a1-4f41-a4c8-0c5f8940e7d7" />
+<img width="946" height="650" alt="Screenshot 2025-10-19 at 12 12 58" src="https://github.com/user-attachments/assets/d7607d92-cd3f-41c1-ba46-7a81e245f741" />
+Wariometr wskazuje 0 kiedy system cisnienia statycznego jest zatkany 
+<img width="916" height="706" alt="Screenshot 2025-10-19 at 12 16 55" src="https://github.com/user-attachments/assets/539509dc-c9e7-44ea-8c56-152021ab2946" />
+Zakrecanie przez otwieranie okien
+<img width="675" height="649" alt="Screenshot 2025-10-19 at 12 19 38" src="https://github.com/user-attachments/assets/67a49bd4-9eb3-4357-80c6-f14711e3042b" />
+<img width="701" height="663" alt="Screenshot 2025-10-19 at 12 21 43" src="https://github.com/user-attachments/assets/2420b357-0c51-468d-aca2-cb2324509d39" />
+<img width="950" height="653" alt="Screenshot 2025-10-19 at 12 25 18" src="https://github.com/user-attachments/assets/7e893dcb-ac11-40df-a9c1-2c5a7121b92f" />
+<img width="797" height="681" alt="Screenshot 2025-10-19 at 12 27 52" src="https://github.com/user-attachments/assets/3b25d3c0-e078-4456-ab98-be01140aec89" />
+<img width="930" height="639" alt="Screenshot 2025-10-19 at 12 29 35" src="https://github.com/user-attachments/assets/42e6a368-c37d-4ec3-be17-6240b660584d" />
+<img width="949" height="708" alt="Screenshot 2025-10-19 at 12 32 33" src="https://github.com/user-attachments/assets/5c0c6518-3b2e-4886-9cac-c9f5dbdbe50e" />
+<img width="828" height="714" alt="Screenshot 2025-10-19 at 12 33 43" src="https://github.com/user-attachments/assets/a1665e30-70d8-44df-a076-b3aaf9a5b53c" />
+busola tabelka korekcyjna
+<img width="873" height="701" alt="Screenshot 2025-10-19 at 12 38 06" src="https://github.com/user-attachments/assets/ef02081d-993f-4849-b141-d5a10a5ab39f" />
+<img width="875" height="643" alt="Screenshot 2025-10-19 at 12 38 23" src="https://github.com/user-attachments/assets/f693e2af-c79e-4704-b6cd-930510ff3d01" />
+
+zasady lotu:
+<img width="1053" height="554" alt="Screenshot 2025-10-19 at 12 53 28" src="https://github.com/user-attachments/assets/1a550fe2-0b5c-4b8d-98b5-bb3ee3e93b05" />
+<img width="836" height="646" alt="Screenshot 2025-10-19 at 12 59 49" src="https://github.com/user-attachments/assets/d4b99df5-806e-4a21-a9f1-31d1d46daa23" />
+
+Jak najszybciej zaloz maske zeby zapobiec dekompresji w razie problemu --> czas jest ogarniczony 
+<img width="1185" height="692" alt="Screenshot 2025-10-19 at 13 08 15" src="https://github.com/user-attachments/assets/32e65c84-0722-4647-8586-cdc62bd64fab" />
+<img width="1267" height="667" alt="Screenshot 2025-10-19 at 13 09 49" src="https://github.com/user-attachments/assets/dc1bb685-8e09-4dbc-943e-0bfc1cffd907" />
+
+duzy spadek gestosci z wysokoscia = trzeba oszacowac osiagi i 
+<img width="1210" height="629" alt="Screenshot 2025-10-19 at 13 23 32" src="https://github.com/user-attachments/assets/a0304045-fefb-4c2e-bc9e-b43ca00d6ff4" />
+diamond da40
+
+wysokosc gestosciowa jest duza = duze temperatury ----> pasy sa dluzsze 
+<img width="1129" height="628" alt="Screenshot 2025-10-19 at 13 25 32" src="https://github.com/user-attachments/assets/1275d42a-97e4-4133-ab0e-cc9394255e61" />
+<img width="1193" height="569" alt="Screenshot 2025-10-19 at 13 26 43" src="https://github.com/user-attachments/assets/72d02e58-1a28-4af2-9b88-32de0c31dc56" />
+
 
 
 
