@@ -183,6 +183,33 @@ diamond da40
 wysokosc gestosciowa jest duza = duze temperatury ----> pasy sa dluzsze 
 <img width="1129" height="628" alt="Screenshot 2025-10-19 at 13 25 32" src="https://github.com/user-attachments/assets/1275d42a-97e4-4133-ab0e-cc9394255e61" />
 <img width="1193" height="569" alt="Screenshot 2025-10-19 at 13 26 43" src="https://github.com/user-attachments/assets/72d02e58-1a28-4af2-9b88-32de0c31dc56" />
+<img width="1264" height="622" alt="Screenshot 2025-10-19 at 13 36 15" src="https://github.com/user-attachments/assets/913c2868-0529-4b1b-ac38-a7305d37f169" />
+<img width="1182" height="722" alt="Screenshot 2025-10-19 at 13 41 33" src="https://github.com/user-attachments/assets/b69a05dc-7b1f-49ae-ab5a-d7076a14bcae" />
+<img width="1251" height="702" alt="Screenshot 2025-10-19 at 13 48 47" src="https://github.com/user-attachments/assets/983beb4c-7039-48ba-92ca-c5aaa582ca09" />
+<img width="1248" height="637" alt="Screenshot 2025-10-19 at 13 53 15" src="https://github.com/user-attachments/assets/52bb64b5-6d58-4ffd-a620-922aed20c293" />
+<img width="1231" height="671" alt="Screenshot 2025-10-19 at 13 56 13" src="https://github.com/user-attachments/assets/75e8f01a-9548-4ad5-b221-d0015966f766" />
+<img width="1193" height="631" alt="Screenshot 2025-10-19 at 13 58 36" src="https://github.com/user-attachments/assets/e562a420-2e43-4be3-9283-1f9aa7b868f6" />
+<img width="1166" height="609" alt="Screenshot 2025-10-19 at 14 04 49" src="https://github.com/user-attachments/assets/13dd96d7-697d-4a1e-80b8-be3b5cf5f6eb" />
+<img width="1219" height="643" alt="Screenshot 2025-10-19 at 14 07 28" src="https://github.com/user-attachments/assets/e399198b-8637-4674-a314-750f9b1ea979" />
+<img width="1238" height="675" alt="Screenshot 2025-10-19 at 14 08 53" src="https://github.com/user-attachments/assets/011d2ab1-8845-45ed-9cf2-5121094ece2a" />
+<img width="1085" height="677" alt="Screenshot 2025-10-19 at 14 10 35" src="https://github.com/user-attachments/assets/65ec76b2-f859-4aa0-a4a5-c86cd924255a" />
+<img width="1204" height="588" alt="Screenshot 2025-10-19 at 14 15 38" src="https://github.com/user-attachments/assets/bbbd2c26-0806-47cd-9b0b-c135e5749486" />
+<img width="1237" height="674" alt="Screenshot 2025-10-19 at 14 17 18" src="https://github.com/user-attachments/assets/07a2eea6-e410-4dbf-8990-85357c355bd4" />
+<img width="1202" height="654" alt="Screenshot 2025-10-19 at 14 17 40" src="https://github.com/user-attachments/assets/da3cd471-c625-477b-bc4e-1a2564da106f" />
+<img width="1194" height="631" alt="Screenshot 2025-10-19 at 14 20 29" src="https://github.com/user-attachments/assets/7316ea9c-1678-472c-a8d4-c2ad4f15c984" />
+<img width="1156" height="661" alt="Screenshot 2025-10-19 at 14 22 57" src="https://github.com/user-attachments/assets/b08b609c-7306-420d-8a68-cd1c08333adb" />
+<img width="1242" height="707" alt="Screenshot 2025-10-19 at 14 28 11" src="https://github.com/user-attachments/assets/e21436ba-6c22-4ace-96ed-1441d0a0d5ea" />
+<img width="975" height="688" alt="Screenshot 2025-10-19 at 14 29 11" src="https://github.com/user-attachments/assets/d9418fe9-c5e6-4883-ac88-dffdccb40d9d" />
+<img width="1262" height="708" alt="Screenshot 2025-10-19 at 14 33 26" src="https://github.com/user-attachments/assets/291fbb8a-1086-4472-81c9-68873dceb524" />
+<img width="1258" height="620" alt="Screenshot 2025-10-19 at 14 36 39" src="https://github.com/user-attachments/assets/d651ef31-56c5-4d97-ab7b-3a4d24946eed" />
+<img width="1189" height="708" alt="Screenshot 2025-10-19 at 14 37 50" src="https://github.com/user-attachments/assets/5ef1533e-c194-4fd4-913f-9c01d00676cd" />
+<img width="1120" height="700" alt="Screenshot 2025-10-19 at 14 43 38" src="https://github.com/user-attachments/assets/c4062e7e-88ae-434d-b115-50ae11aabec7" />
+<img width="1162" height="706" alt="Screenshot 2025-10-19 at 14 46 19" src="https://github.com/user-attachments/assets/8ad76cf3-c7ab-4ef3-bca7-55fb2568cb25" />
+<img width="1117" height="613" alt="Screenshot 2025-10-19 at 14 49 52" src="https://github.com/user-attachments/assets/d6ae014f-81eb-4f6e-aa89-73d367c40cb3" />
+<img width="1253" height="716" alt="Screenshot 2025-10-19 at 14 50 47" src="https://github.com/user-attachments/assets/6c3f96f6-3b50-4894-a4e1-74d3e4d0400e" />
+<img width="1266" height="684" alt="Screenshot 2025-10-19 at 14 52 44" src="https://github.com/user-attachments/assets/0ec597e2-5ff6-4987-9637-8d4d2a06c2a7" />
+<img width="1248" height="673" alt="Screenshot 2025-10-19 at 14 53 19" src="https://github.com/user-attachments/assets/743efdd2-66e2-4076-b51a-bbe62f9007ff" />
+<img width="1205" height="509" alt="Screenshot 2025-10-19 at 14 54 41" src="https://github.com/user-attachments/assets/4ccf0786-a59e-47b0-bf0e-81c5f35eb546" />
 
 
 
