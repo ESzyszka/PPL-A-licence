@@ -213,7 +213,22 @@ wysokosc gestosciowa jest duza = duze temperatury ----> pasy sa dluzsze
 
 Planowanie lotu:
 <img width="1268" height="686" alt="Screenshot 2025-10-21 at 18 23 20" src="https://github.com/user-attachments/assets/3ef59a68-0960-4989-ac73-219a6ac414e2" />
+<img width="1269" height="568" alt="Screenshot 2025-10-21 at 18 32 42" src="https://github.com/user-attachments/assets/848c2157-d96f-4462-a4ba-a3641d9499f8" />
+<img width="1264" height="722" alt="Screenshot 2025-10-21 at 18 42 50" src="https://github.com/user-attachments/assets/1a7b2d2e-718f-41c0-b2a2-b0039e862f4b" />
+AIP: 
+Planowanie lotu: https://docs.pansa.pl/ais/eaipifr/AIRAC%20AMDT%2010-25_2025_10_02/index-v2.html
 
+aerodrome chart: (inside the AIP you can ctr + F the keyword)
+https://docs.pansa.pl/ais/eaipifr/AIRAC%20AMDT%2010-25_2025_10_02/index-v2.html
+https://docs.pansa.pl/ais/eaipifr/AIRAC%20AMDT%2010-25_2025_10_02/documents/Root_WePub/AIP%20IFR/AD/EPBY/02/AD_2_EPBY_2-1.pdf
+
+Trasa przylotowa i dolotowa - VFR ARRIVAL AND DEPARTURE ROUTES
+https://docs.pansa.pl/ais/eaipifr/AIRAC%20AMDT%2010-25_2025_10_02/index-v2.html
+https://docs.pansa.pl/ais/eaipifr/AIRAC%20AMDT%2010-25_2025_10_02/documents/Root_WePub/AIP%20IFR/AD/EPBY/13/AD_2_EPBY_13-1.pdf
+
+
+<img width="1225" height="704" alt="Screenshot 2025-10-21 at 18 45 56" src="https://github.com/user-attachments/assets/e0178e88-5664-4d3c-88f3-7e6894139906" />
+<img width="1230" height="585" alt="Screenshot 2025-10-21 at 18 47 33" src="https://github.com/user-attachments/assets/51c23670-2100-4a84-99c6-e42b4ad27adf" />
 
 
 
