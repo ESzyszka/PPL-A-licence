@@ -211,6 +211,10 @@ wysokosc gestosciowa jest duza = duze temperatury ----> pasy sa dluzsze
 <img width="1248" height="673" alt="Screenshot 2025-10-19 at 14 53 19" src="https://github.com/user-attachments/assets/743efdd2-66e2-4076-b51a-bbe62f9007ff" />
 <img width="1205" height="509" alt="Screenshot 2025-10-19 at 14 54 41" src="https://github.com/user-attachments/assets/4ccf0786-a59e-47b0-bf0e-81c5f35eb546" />
 
+Planowanie lotu:
+<img width="1268" height="686" alt="Screenshot 2025-10-21 at 18 23 20" src="https://github.com/user-attachments/assets/3ef59a68-0960-4989-ac73-219a6ac414e2" />
+
+
 
 
 
