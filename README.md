@@ -275,6 +275,9 @@ Contingency fuel
 
 przeliczanie nowej trasy podczas lotu --- testowane w trakcie lotu 
 
+Operacyjny plan lotu w LOT + flight management computer
+<img width="714" height="559" alt="Screenshot 2025-10-21 at 20 05 34" src="https://github.com/user-attachments/assets/68c39717-db7e-4629-bde8-ba644d2a492f" />
+<img width="705" height="574" alt="Screenshot 2025-10-21 at 20 05 49" src="https://github.com/user-attachments/assets/7971482e-1b09-4b2d-a3e3-278a7785acce" />
 
 
 Instruktor symulatorowy MCCI(A) IRI(A)
