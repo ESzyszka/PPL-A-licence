@@ -284,6 +284,11 @@ satellite acars
 
 MCDU:
 <img width="413" height="638" alt="image" src="https://github.com/user-attachments/assets/f758ac55-bd53-4874-ae1e-ea0f2712bc00" />
+FMS
+ortodroma loksodroma
+https://en.wikipedia.org/wiki/Rhumb_line
+
+pilot lecacy i pilot nawigujacy 
 
 https://www.youtube.com/watch?v=PxMKYXVRSHM
 
