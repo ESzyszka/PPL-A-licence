@@ -279,5 +279,13 @@ Operacyjny plan lotu w LOT + flight management computer
 <img width="714" height="559" alt="Screenshot 2025-10-21 at 20 05 34" src="https://github.com/user-attachments/assets/68c39717-db7e-4629-bde8-ba644d2a492f" />
 <img width="705" height="574" alt="Screenshot 2025-10-21 at 20 05 49" src="https://github.com/user-attachments/assets/7971482e-1b09-4b2d-a3e3-278a7785acce" />
 
+satellite acars
+<img width="1024" height="569" alt="image" src="https://github.com/user-attachments/assets/26776f7f-77ab-4368-81be-10f6ac57df05" />
+
+MCDU:
+<img width="413" height="638" alt="image" src="https://github.com/user-attachments/assets/f758ac55-bd53-4874-ae1e-ea0f2712bc00" />
+
+https://www.youtube.com/watch?v=PxMKYXVRSHM
+
 
 Instruktor symulatorowy MCCI(A) IRI(A)
