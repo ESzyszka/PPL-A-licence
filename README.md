@@ -245,8 +245,35 @@ ATIS mozna sprawdzic na AIP
 True index - z ktorego kierunku wiatr wieje
 <img width="1267" height="693" alt="Screenshot 2025-10-21 at 19 23 27" src="https://github.com/user-attachments/assets/8c19adec-ccbb-4868-932f-beac7eb93b9e" />
 <img width="1263" height="639" alt="Screenshot 2025-10-21 at 19 26 51" src="https://github.com/user-attachments/assets/32a1f5a9-e440-4487-bd8c-281db20c14b4" />
+<img width="1253" height="695" alt="Screenshot 2025-10-21 at 19 28 11" src="https://github.com/user-attachments/assets/66a40588-5431-4d99-8be3-ecd6cae50a4d" />
+<img width="1197" height="715" alt="Screenshot 2025-10-21 at 19 30 03" src="https://github.com/user-attachments/assets/5c1f4be3-7a8e-4804-84df-e8179106e4fb" />
+<img width="977" height="698" alt="Screenshot 2025-10-21 at 19 32 03" src="https://github.com/user-attachments/assets/a7f69143-153f-4afc-aee8-e62d94fca5a9" />
+<img width="1243" height="714" alt="Screenshot 2025-10-21 at 19 32 18" src="https://github.com/user-attachments/assets/ee8d7a01-59e8-4824-a16a-d19ceb85f7b4" />
+<img width="1175" height="720" alt="Screenshot 2025-10-21 at 19 34 44" src="https://github.com/user-attachments/assets/144ae265-4df8-4743-88fd-a4219bd624c3" />
 
+Dead reckoning
+<img width="1191" height="660" alt="Screenshot 2025-10-21 at 19 41 01" src="https://github.com/user-attachments/assets/c8da23c9-544a-4711-aa07-e6b6ca1771b6" />
 
+Tail tipping 
+<img width="550" height="288" alt="image" src="https://github.com/user-attachments/assets/c4984787-3ed7-4af0-9119-0da9c304d795" />
+<img width="1067" height="691" alt="Screenshot 2025-10-21 at 19 43 53" src="https://github.com/user-attachments/assets/8646d640-a668-4852-b433-83962d35a90a" />
+
+samoloty z biegiem czasu sa ciezsze, jak wyposazenie sie zmienia
+
+<img width="1218" height="629" alt="Screenshot 2025-10-21 at 19 36 00" src="https://github.com/user-attachments/assets/9d00bad9-7e24-41ee-adc8-af7956e9e1c8" />
+<img width="901" height="642" alt="Screenshot 2025-10-21 at 19 44 35" src="https://github.com/user-attachments/assets/3c03176e-51ba-4165-9621-e1589e07c473" />
+<img width="773" height="678" alt="Screenshot 2025-10-21 at 19 45 54" src="https://github.com/user-attachments/assets/f14ef968-8d85-4856-88cc-0c1546d2eabf" />
+<img width="940" height="538" alt="Screenshot 2025-10-21 at 19 46 15" src="https://github.com/user-attachments/assets/54279ace-6c93-4dea-8302-ecc32fa9a87a" />
+<img width="1032" height="536" alt="Screenshot 2025-10-21 at 19 47 47" src="https://github.com/user-attachments/assets/55b14355-b314-4482-88d7-3c9788ea92f4" />
+
+Contingency fuel 
+<img width="1219" height="715" alt="Screenshot 2025-10-21 at 19 50 46" src="https://github.com/user-attachments/assets/38fa7a20-a4f6-4944-b293-ecd11474b278" />
+<img width="1252" height="584" alt="Screenshot 2025-10-21 at 19 51 16" src="https://github.com/user-attachments/assets/259de3e7-6db2-419e-87da-8f20f2e87371" />
+<img width="981" height="681" alt="Screenshot 2025-10-21 at 19 53 53" src="https://github.com/user-attachments/assets/60598d27-22f1-475f-90be-7e6ced4c1ad3" />
+<img width="912" height="684" alt="Screenshot 2025-10-21 at 19 54 29" src="https://github.com/user-attachments/assets/c68479cf-0fef-48a0-af3a-07eb92f772b1" />
+<img width="1266" height="723" alt="Screenshot 2025-10-21 at 19 55 09" src="https://github.com/user-attachments/assets/2c2cf744-54c2-4053-9e0f-4b6532a2f4b3" />
+
+przeliczanie nowej trasy podczas lotu --- testowane w trakcie lotu 
 
 
 
