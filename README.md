@@ -229,6 +229,22 @@ https://docs.pansa.pl/ais/eaipifr/AIRAC%20AMDT%2010-25_2025_10_02/documents/Root
 
 <img width="1225" height="704" alt="Screenshot 2025-10-21 at 18 45 56" src="https://github.com/user-attachments/assets/e0178e88-5664-4d3c-88f3-7e6894139906" />
 <img width="1230" height="585" alt="Screenshot 2025-10-21 at 18 47 33" src="https://github.com/user-attachments/assets/51c23670-2100-4a84-99c6-e42b4ad27adf" />
+<img width="1262" height="708" alt="Screenshot 2025-10-21 at 18 55 39" src="https://github.com/user-attachments/assets/38335759-3f25-415f-be4e-ee90549054c8" />
+<img width="1268" height="698" alt="Screenshot 2025-10-21 at 18 55 53" src="https://github.com/user-attachments/assets/9cae1149-133e-422e-8e0c-4bede9b2c006" />
+<img width="1216" height="666" alt="Screenshot 2025-10-21 at 18 58 04" src="https://github.com/user-attachments/assets/1600076c-d95a-4321-b953-9b88bfb6af9d" />
+ATIS mozna sprawdzic na AIP 
+<img width="1247" height="714" alt="Screenshot 2025-10-21 at 19 02 51" src="https://github.com/user-attachments/assets/0665ef83-ea27-4a7d-9331-e6f031a051a1" />
+<img width="1262" height="708" alt="Screenshot 2025-10-21 at 19 03 04" src="https://github.com/user-attachments/assets/e283277f-392c-43b0-a089-4f967e0bed48" />
+<img width="1253" height="711" alt="Screenshot 2025-10-21 at 19 04 44" src="https://github.com/user-attachments/assets/7335d9b8-e84b-441c-ae19-79ef1c999499" />
+<img width="1263" height="652" alt="Screenshot 2025-10-21 at 19 05 17" src="https://github.com/user-attachments/assets/2d6b2566-9279-4559-b519-aeb7f5e5325a" />
+<img width="1259" height="690" alt="Screenshot 2025-10-21 at 19 05 28" src="https://github.com/user-attachments/assets/59f1bc40-abea-451e-81e2-6d63851634bd" />
+<img width="1252" height="664" alt="Screenshot 2025-10-21 at 19 05 46" src="https://github.com/user-attachments/assets/c36a1124-1761-42d1-b0e9-a34feb31f21e" />
+<img width="1242" height="696" alt="Screenshot 2025-10-21 at 19 09 40" src="https://github.com/user-attachments/assets/8dcb3236-4be6-4fda-9307-80209465c86e" />
+<img width="1255" height="718" alt="Screenshot 2025-10-21 at 19 16 20" src="https://github.com/user-attachments/assets/88d4266c-92bd-4c36-913e-cc304c09beff" />
+<img width="1265" height="728" alt="Screenshot 2025-10-21 at 19 17 15" src="https://github.com/user-attachments/assets/0476ea16-42ef-4ddb-9183-f3640acc40e8" />
+True index - z ktorego kierunku wiatr wieje
+<img width="1267" height="693" alt="Screenshot 2025-10-21 at 19 23 27" src="https://github.com/user-attachments/assets/8c19adec-ccbb-4868-932f-beac7eb93b9e" />
+<img width="1263" height="639" alt="Screenshot 2025-10-21 at 19 26 51" src="https://github.com/user-attachments/assets/32a1f5a9-e440-4487-bd8c-281db20c14b4" />
 
 
 
