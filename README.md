@@ -292,5 +292,27 @@ pilot lecacy i pilot nawigujacy
 
 https://www.youtube.com/watch?v=PxMKYXVRSHM
 
+Navigation apps:
+https://skyvector.com/
+https://www.skydemon.aero/
+
+Logbook:
+https://lecimy.org/
+https://www.flylog.io/
+logbook easa-fcl
+
+Weather:
+https://airportsapp.info/
+
+mfd eng b737
+icas aviation
+<img width="1210" height="580" alt="Screenshot 2025-10-21 at 20 24 22" src="https://github.com/user-attachments/assets/64e3b627-966b-4b8b-b5c0-215a5bb95571" />
+
+auto throttle 
+TOGA in aviation stands for Takeoff/Go-Around. 
+https://www.youtube.com/watch?v=KjAt8qC95cI
+
+http://www.b737.org.uk/flightinstsmax.htm
+
 
 Instruktor symulatorowy MCCI(A) IRI(A)
